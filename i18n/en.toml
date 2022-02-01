@@ -31,7 +31,7 @@
     other = "{{.Count}} minutes"
 
 [postCopyrightFront]
-    other = "Unless otherwise noted, the content of this site is licensed under "
+    other = "Content licensed under "
 
 [postCopyrightEnd]
     other = "."
